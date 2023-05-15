@@ -1,6 +1,6 @@
 body{
     background-color: black;
-    color: white;
+    color: darkorange;
     font-size: 25px;
     font-style: italic;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
@@ -26,4 +26,7 @@ h2{
     display: inline-block;
     color: white;
     margin: 35px;
+}
+.principal {
+    background-image: linear-gradient(black, white);
 }
